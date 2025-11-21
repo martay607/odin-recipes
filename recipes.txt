@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Lasagna</h1>
+    <a href="../index.html">Home</a>
+    <p></p>
+    <img src="../lasagna.png" height="310" width="400">
+    <p>Lasagna made with creamy red sauce, meat, and plenty of cheese.</p>
+    <p> This delicious lasagna is time intensive, but the end result is so worth it. With a prep time of 30 minutes and a cooktime of 2 1/2 hours, this dish is mouthwatering perfection.</p>
+    <h2>Ingredients</h2>
+    <ul>
+        <li>1 pound sweet italian sausage</li>
+        <li>3/4 pound lean ground beef</li>
+        <li>1/2 cup minced onion</li>
+        <li>2 cloves garlic</li>
+        <li>1 (28 ounce) can crushed tomatoes</li>
+        <li>2 (6.5 ounce) cans canned tomato sauce</li>
+        <li>2 (6 ounce) cans tomato paste</li>
+        <li>1/2 cup water</li>
+        <li>2 Tbsp white sugar</li>
+        <li>4 Tbsp chopped fresh parsley</li>
+        <li>1 1/2 tsp salt</li>
+        <li>1 tsp Italian seasoning</li>
+        <li>1/2 tsp Fennel Seeds</li>
+        <li>1/4 tsp ground black pepepr</li>
+        <li>12 lasagna noodles</li>
+        <li>16 ounces ricotta cheese</li>
+        <li>1 egg</li>
+        <li>3/4 pound mozzarella cheese, sliced</li>
+        <li>3/4 cup grated parmesan cheese</li>
+    </ul>
+    <h2>Directions</h2>
+    <ol>
+        <li>Gather all ingredients</li>
+        <li>Cook sausage, ground beef, onion, and garlic in a Dutch oven over medium heat until well browned.</li>
+        <li>Stir in crushed tomatoes, tomato sauce, tomato paste, and water. Season with sugar, 2 Tbsp parsley, basil, 1 tsp salt, Italian seasoning, fennel seeds, and pepper. Simmer, covered, for about an hour and a half, stirring occasionally. </li>
+        <li>Bring a large pot of lightly salted water to a boil. Cook lasagna noodles in boiling water for 8-10 minutes. Drain noodles, and rinse with cold water.</li>
+        <li>In a mixing bowl, combine ricotta cheese with egg, remaining parsley, and 1/2 tsp salt.</li>
+        <li>Preheat oven to 375 degrees F</li>
+        <li>To assemble, spread 1 1/2 cups of meat sauce in the bottom of a 9x13-inch baking dish. Arrange 6 noodles lengthwise over meat sauce, overlapping slightly. Spread with 1/2 of the ricotta mixture. Top with 1/3 of the mozzarella slices. Spoon 1 1/2 cups meat sauce over mozzarella, and sprinkle with 1/4 cup parmesan cheese.</li>
+        <li>Repeat layers, and top with remaining mozzarella and parmesan cheese. Cover with foil: to prevent sticking either spray foil with cooking spray or make sure foil does not touch cheese.</li>
+        <li>Bake in preheated oven for 25 minutes. Uncover and bake an additional 25 minutes.</li>
+        <li>Let rest 15 minutes before serving.</li>
+        <li>Enjoy!</li>
+    </ol>
+</body>
+</html>
